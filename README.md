@@ -1,6 +1,6 @@
 # Udemy Premium Course Repository: WordPress for Beginners 📚
 
-![WordPress Logo]
+Course Content and Resources 
 
 <img src="wordpress.jpeg">
 
