@@ -1,13 +1,15 @@
 # Udemy Premium Course Repository: WordPress for Beginners 📚
 
-![WordPress Logo](wordpress-logo.png)
+![WordPress Logo]
+
+<img src="wordpress.jpeg">
 
 Welcome to your one-stop resource hub for the Udemy Premium Course: "WordPress for Beginners - Master WordPress Quickly" 🚀
 
 ## Course Overview 📋
 - **Course Title:** WordPress for Beginners - Master WordPress Quickly
-- **Instructor:** [Instructor Name]
-- **Completion Date:** [Date Completed]
+- **Instructor:** Andrew Williams
+- **Completion Date:** Sep 10, 2023
 
 ## Contents 📦
 1. **Course Notes 📝:** Dive into detailed notes summarizing key course concepts and techniques.
