@@ -2,7 +2,7 @@
 
 Course Content and Resources 
 
-<img src="wordpress.jpeg">
+<img src="wordpress.png">
 
 Welcome to your one-stop resource hub for the Udemy Premium Course: "WordPress for Beginners - Master WordPress Quickly" 🚀
 
